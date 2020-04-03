@@ -32,6 +32,7 @@ _Adpated from [CCM Site](https://brendenlake.github.io/CCM-site/#final-project)_
 - [ ] reproduce interpret_bert research, verify results & conclusions 
 - [ ] compare bert conclusions to childhood development stages (possible overlap?)
 - [ ] _pending time:_ use wordbank dataset to look for evidence of overlap
+- [ ] _pending time:_ use children's books to look for evidence of overlap
 
 
 ## Acknowledgements:
