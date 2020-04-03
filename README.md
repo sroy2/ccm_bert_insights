@@ -1,3 +1,54 @@
+# nyu-ds1016
+Group Project for NYU-DS1016, Computational Cognitive Modeling (2020 Spring Semester)
+
+## Group Members
+* Wangrui (Wendy) Hou  |  wh916
+* Gabriella (Gaby) Hurtado  |  gh1408
+* Stephen Roy  |  sr5388
+
+## Topic: Neural Networks - Language
+_Selected from [CCM Project Site](https://brendenlake.github.io/CCM-site/final_project_ideas.html)_  
+>Exploring lexical and grammatical structure in BERT or GPT2. What do powerful pre-trained models learn about lexical and grammatical structure? Explore the learned representations of a state-of-the-art language model (BERT, GPT2, etc.) in systematic ways, and discuss the learned representation in relation to how children may acquire this structure through learning.
+
+## Timeline
+_Adpated from [CCM Site](https://brendenlake.github.io/CCM-site/#final-project)_
+1. Initial Meeting (2020-03-26)
+2. Proposal Review (2020-04-02)
+3. Proposal Submission (2020-04-06)
+  * The final project proposal is due Monday, April 6 (one half page written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+  * https://piazza.com/class/k5cskqm4l1d4ei?cid=87
+4. Final Project Due (2020-05-13)
+
+## Dataset sources: 
+* TBD
+
+## Working Documents
+* [Google Drive](https://drive.google.com/drive/u/2/folders/1f8UW4vlJ13Tse6Tcq5q4cHt_pFy9068-)
+* [Proposal - Draft](https://drive.google.com/open?id=1LsgqYxx-ldeHlZdwNQ3P9O6NL-R3YThtyOMT-5xseJs)
+
+## TODO
+- [ ] @stephen, set up git
+- [ ] @stephen, select data set
+- [ ] @stephen, bert integration with project
+- [ ] @wendy, BERT history
+- [ ] @wendy, template proposal
+- [ ] @gaby, NL tasks/tests/history
+
+
+## Acknowledgements:
+* [Ganesh Jawahar - intpret_bert upstream repo](https://ganeshjawahar.github.io/)
+* [Ganesh speaking about interpret_bert](https://vimeo.com/384961703)
+* [Children First Language Acquisition At Age 1-3 Years Old In Balata](http://www.iosrjournals.org/iosr-jhss/papers/Vol20-issue8/Version-5/F020855157.pdf)
+* [Caregivers' Role in Child's Language Acquisition](https://dspace.univ-adrar.dz/jspui/handle/123456789/2476)
+* [The Acquisition of Syntax](https://linguistics.ucla.edu/people/hyams/28%20Hyams-Orfitelli.final.pdf)
+* [Studies in Child Language: An Anthropological View: A First Language: The Early Stages](https://www.researchgate.net/publication/249422499_Studies_in_Child_Language_An_Anthropological_View_A_First_Language_The_Early_Stages_Roger_Brown_Language_Acquisition_and_Communicative_Choice_Susan_Ervin-Tripp_Studies_of_Child_Language_Development_Ch)
+* [Stanford WordBank Dataset](http://wordbank.stanford.edu/analyses)
+* [A Structural Probe for Finding Syntax in Word Representations](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)
+
+# Below is the original markdown from Ganesh's upstream repo README.md
+
+---
+
 ## What does BERT learn about the structure of language?
 
 Code used in our [ACL'19 paper](https://drive.google.com/open?id=166ngGwApN5XdOnUzs_y12GqdDCoPvUeh) for interpreting [BERT model](https://arxiv.org/abs/1810.04805).
