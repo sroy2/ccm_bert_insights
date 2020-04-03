@@ -26,13 +26,12 @@ _Adpated from [CCM Site](https://brendenlake.github.io/CCM-site/#final-project)_
 * [Google Drive](https://drive.google.com/drive/u/2/folders/1f8UW4vlJ13Tse6Tcq5q4cHt_pFy9068-)
 * [Proposal - Draft](https://drive.google.com/open?id=1LsgqYxx-ldeHlZdwNQ3P9O6NL-R3YThtyOMT-5xseJs)
 
-## TODO
-- [ ] @stephen, set up git
-- [ ] @stephen, select data set
-- [ ] @stephen, bert integration with project
-- [ ] @wendy, BERT history
-- [ ] @wendy, template proposal
-- [ ] @gaby, NL tasks/tests/history
+## Road Map
+- [ ] set up git
+- [ ] update proposal
+- [ ] reproduce interpret_bert research, verify results & conclusions 
+- [ ] compare bert conclusions to childhood development stages (possible overlap?)
+- [ ] _pending time:_ use wordbank dataset to look for evidence of overlap
 
 
 ## Acknowledgements:
