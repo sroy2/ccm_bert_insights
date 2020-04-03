@@ -41,6 +41,7 @@ _Adpated from [CCM Site](https://brendenlake.github.io/CCM-site/#final-project)_
 * [Caregivers' Role in Child's Language Acquisition](https://dspace.univ-adrar.dz/jspui/handle/123456789/2476)
 * [The Acquisition of Syntax](https://linguistics.ucla.edu/people/hyams/28%20Hyams-Orfitelli.final.pdf)
 * [Studies in Child Language: An Anthropological View: A First Language: The Early Stages](https://www.researchgate.net/publication/249422499_Studies_in_Child_Language_An_Anthropological_View_A_First_Language_The_Early_Stages_Roger_Brown_Language_Acquisition_and_Communicative_Choice_Susan_Ervin-Tripp_Studies_of_Child_Language_Development_Ch)
+* [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](https://openreview.net/pdf?id=SJzSgnRcKX)
 * [Stanford WordBank Dataset](http://wordbank.stanford.edu/analyses)
 * [A Structural Probe for Finding Syntax in Word Representations](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)
 
