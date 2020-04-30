@@ -1,3 +1,9 @@
+# Project Rescoped: [New Git Portal](https://github.com/sroy2/ccm-project)
+
+Below is archived content.
+
+---
+
 # nyu-ds1016
 Group Project for NYU-DS1016, Computational Cognitive Modeling (2020 Spring Semester)
 
